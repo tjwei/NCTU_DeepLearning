@@ -12,3 +12,10 @@ Coursework
 See https://github.com/tjwei/CrashCourseML
 * Basic_ML/01-From NumPy to MNIST.ipynb
 * DIY_NN/01-FeedForward-Forward Propagation.ipynb
+
+## Week03
+Coursework
+* Use numpy to write a simple neural network and use a gradient descent algorithm to train it for classifying  digits in the MNIST dataset.
+* Handcraft a CNN network to generate the next step of the game of life.
+* Train a neural network to classify digits in the MNIST dataset.
+* Train a neural netowork to classify classes in the cifar10 dataset.

@@ -4,6 +4,8 @@ Text Book: https://www.deeplearningbook.org
 Mentioned software:
 python, numpy, sklearn, tensorflow, keras
 
+google colab
+
 
 ## Week01-Week02
 Coursework

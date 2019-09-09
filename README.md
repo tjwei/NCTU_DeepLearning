@@ -8,6 +8,8 @@ google colab
 
 
 ## Week01-Week02
+slides: https://drive.google.com/a/nctu.edu.tw/file/d/1VTuiNdYzNJ6KRDWKPI6B-lVUNhZwKKF1/view?usp=sharing
+
 Coursework
 * Use nearest neighbor method to do handwritten digit recognition
 * Use PCA to speed up the above method

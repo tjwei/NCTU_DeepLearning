@@ -11,6 +11,7 @@ google colab
 slides: 
 * https://drive.google.com/a/nctu.edu.tw/file/d/1VTuiNdYzNJ6KRDWKPI6B-lVUNhZwKKF1/view?usp=sharing
 * https://drive.google.com/a/nctu.edu.tw/file/d/1mQgQlqh2x3MgrOCBt7XMYG4nw29upGyR/view?usp=sharing
+* https://drive.google.com/file/d/1gpG9-btRo0LyLn8r8aaOozo0eOvgPMKh/view?usp=sharing
 
 
 ### Coursework

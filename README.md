@@ -13,7 +13,9 @@ slides:
 * https://drive.google.com/a/nctu.edu.tw/file/d/1mQgQlqh2x3MgrOCBt7XMYG4nw29upGyR/view?usp=sharing
 
 
-Coursework
+### Coursework
+ submit form: https://docs.google.com/forms/d/e/1FAIpQLScGgaTCzsXwxhuxizLduURIBNGlOgedYCOb5gkJYwsHoAouRA/viewform
+
 * Use nearest neighbor method to do handwritten digit recognition
 * Use PCA to speed up the above method
 * Handcraft a feedforward neural network that solves the problem of
@@ -25,6 +27,8 @@ Coursework
 See https://github.com/tjwei/CrashCourseML
 * Basic_ML/01-From NumPy to MNIST.ipynb
 * DIY_NN/01-FeedForward-Forward Propagation.ipynb
+
+
 
 ## Week03
 Coursework

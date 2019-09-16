@@ -16,14 +16,16 @@ slides:
 
 ### Coursework
  submit form: https://docs.google.com/forms/d/e/1FAIpQLScGgaTCzsXwxhuxizLduURIBNGlOgedYCOb5gkJYwsHoAouRA/viewform
+ 
+ Please submit .ipynb files
 
 * Use nearest neighbor method to do handwritten digit recognition
-* Use PCA to speed up the above method
+* (Optional) Use PCA to speed up the above method
 * Handcraft a feedforward neural network that solves the problem of
     * input a binary representation of a number and classify by it's remainder when divided by 4 (with 100% accuracy)
     * input a binary representation of a number and classify by it's remainder when divided by 3 (with high accuracy)
     * input is a 3x3 board, each cell is either white or black. Check whether there are any 3 white cell are in a row (like the game tic-tac-toe)
-* Use numpy to write a simple neural network and use a gradient descent algorithm to train it for classifying  digits in the MNIST dataset.
+
 
 See https://github.com/tjwei/CrashCourseML
 * Basic_ML/01-From NumPy to MNIST.ipynb
@@ -34,5 +36,6 @@ See https://github.com/tjwei/CrashCourseML
 ## Week03
 Coursework
 * Handcraft a CNN network to generate the next step of the game of life.
+* Use numpy to write a simple neural network and use a gradient descent algorithm to train it for classifying  digits in the MNIST dataset.
 * Train a neural network to classify digits in the MNIST dataset.
 * Train a neural netowork to classify classes in the cifar10 dataset.

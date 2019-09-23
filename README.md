@@ -7,7 +7,7 @@ python, numpy, sklearn, tensorflow, keras
 google colab
 
 
-## Week01-Week02
+## Week01-Week02 Introduction and Feedforward networks
 slides: 
 * https://drive.google.com/a/nctu.edu.tw/file/d/1VTuiNdYzNJ6KRDWKPI6B-lVUNhZwKKF1/view?usp=sharing
 * https://drive.google.com/a/nctu.edu.tw/file/d/1mQgQlqh2x3MgrOCBt7XMYG4nw29upGyR/view?usp=sharing
@@ -33,9 +33,15 @@ See https://github.com/tjwei/CrashCourseML
 
 
 
-## Week03
+## Week03 Cost function and Gradient Descent
+* ipynb: https://github.com/tjwei/CrashCourseML/blob/master/DIY_NN/02-FeedForward-Backpropagation.ipynb
+* Ian Goodfellow's slides: http://www.deeplearningbook.org/slides/sgd_and_cost_structure.pdf
 Coursework
+* Use numpy to write simple neural networks and use a gradient descent algorithm to train it for classifying  digits in the MNIST dataset.
+    * Using cross-entropy loss
+    * Using mean-square-error loss
+
+## Week04 CNN and Using tensorflow 2.0
 * Handcraft a CNN network to generate the next step of the game of life.
-* Use numpy to write a simple neural network and use a gradient descent algorithm to train it for classifying  digits in the MNIST dataset.
 * Train a neural network to classify digits in the MNIST dataset.
 * Train a neural netowork to classify classes in the cifar10 dataset.

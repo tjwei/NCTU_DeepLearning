@@ -36,7 +36,7 @@ See https://github.com/tjwei/CrashCourseML
 ## Week03 Cost function and Gradient Descent
 * ipynb: https://github.com/tjwei/CrashCourseML/blob/master/DIY_NN/02-FeedForward-Backpropagation.ipynb
 * Ian Goodfellow's slides: http://www.deeplearningbook.org/slides/sgd_and_cost_structure.pdf
-Coursework
+Coursework (use new E3 to submit your work)
 * Use numpy to write simple neural networks and use a gradient descent algorithm to train it for classifying  digits in the MNIST dataset.
     * Using cross-entropy loss
     * Using mean-square-error loss

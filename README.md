@@ -42,6 +42,9 @@ Coursework (use new E3 to submit your work)
     * Using mean-square-error loss
 
 ## Week04 CNN and Using tensorflow 2.0
-* Handcraft a CNN network to generate the next step of the game of life.
 * Train a neural network to classify digits in the MNIST dataset.
 * Train a neural netowork to classify classes in the cifar10 dataset.
+
+## Week05 Convolution and convolution transpose
+* Handcraft a CNN network to generate the next step of the game of life.
+

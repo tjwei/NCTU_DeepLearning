@@ -56,6 +56,12 @@ Coursework (use new E3 to submit your work)
 * network in network: https://arxiv.org/pdf/1312.4400.pdf
 * Resnet: https://arxiv.org/pdf/1512.03385.pdf
 
+# Week07 Optimization, RNN
+* http://www.deeplearningbook.org/contents/optimization.html
+* http://www.deeplearningbook.org/contents/rnn.html
+* https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* https://www.tensorflow.org/tutorials/text/text_classification_rnn
+
 
 
 

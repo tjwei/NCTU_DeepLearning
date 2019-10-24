@@ -48,3 +48,20 @@ Coursework (use new E3 to submit your work)
 ## Week05 Convolution and convolution transpose
 * Handcraft a CNN network to generate the next step of the game of life.
 
+## Week06 More Techniques
+* gradient descent based optimizers: http://ruder.io/optimizing-gradient-descent/index.html
+* Batch normalization: https://en.wikipedia.org/wiki/Batch_normalization   https://arxiv.org/pdf/1502.03167v3.pdf
+* Overfitting
+* Dropout: http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
+* network in network: https://arxiv.org/pdf/1312.4400.pdf
+* Resnet: https://arxiv.org/pdf/1512.03385.pdf
+
+# Week07 Optimization, RNN
+* http://www.deeplearningbook.org/contents/optimization.html
+* http://www.deeplearningbook.org/contents/rnn.html
+* https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* https://www.tensorflow.org/tutorials/text/text_classification_rnn
+
+
+
+

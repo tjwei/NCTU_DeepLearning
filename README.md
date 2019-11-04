@@ -62,6 +62,8 @@ Coursework (use new E3 to submit your work)
 * https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 * https://www.tensorflow.org/tutorials/text/text_classification_rnn
 
+# Week09 Applications
+* slides: [Deep Learning Week 09.pdf](Deep%20Learning%20Week%2009.pdf)
 
 
 

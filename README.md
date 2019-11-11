@@ -66,4 +66,5 @@ Coursework (use new E3 to submit your work)
 * slides: [Deep Learning Week 09.pdf](Deep%20Learning%20Week%2009.pdf)
 
 
-
+# Week12 Reinforcement Learning:
+* Book: http://incompleteideas.net/book/bookdraft2017nov5.pdf

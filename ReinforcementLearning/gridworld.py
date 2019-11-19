@@ -1,3 +1,5 @@
+import base64
+global_data_url_map={}
 class GridWorld:
     def __init__(self, size, start, exit, blocks=None):
         self.size=size
@@ -44,7 +46,14 @@ class GridWorld:
         td_style = "width: 2em;height: 2em;"
         def img(f, style=""):
             style = "style='width: 1.5em;height: 1.5em;{}'".format(style)
-            return "<img src='img/{}.png' {}/>".format(f, style)
+            if f not in global_data_url_map:
+                with open("img/{}.png".format(f), 'rb') as f:
+                    image_data = f.read()
+                encoded = base64.b64encode(image_data).decode()
+                global_data_url_map[f]=encoded
+            else:
+                encoded=global_data_url_map[f]
+            return "<img src='data:image/png;base64,{}' {}/>".format(encoded, style)
         s = "<table border=1>"
         for i in range(-1,self.size[0]+1):
             s+="<tr>"            

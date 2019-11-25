@@ -70,6 +70,7 @@ Coursework (use new E3 to submit your work)
 * Book: http://incompleteideas.net/book/bookdraft2017nov5.pdf
 # Week13 Deep Reinforcement Learning:
 * An Introduction to Deep Reinforcement Learning: https://arxiv.org/pdf/1811.12560.pdf
+* slides: https://www.slideshare.net/BigDataColombia/an-introduction-to-deep-reinforcement-learning ,  https://www.cse.cuhk.edu.hk/irwin.king/_media/presentations/introduction2drl.pdf
 * Playing Atari with Deep Reinforcement Learning: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 * Double DQN: https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847
 * Dueling Network Architectures: http://proceedings.mlr.press/v48/wangf16.pdf

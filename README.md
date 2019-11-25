@@ -68,3 +68,14 @@ Coursework (use new E3 to submit your work)
 
 # Week12 Reinforcement Learning:
 * Book: http://incompleteideas.net/book/bookdraft2017nov5.pdf
+# Week13 Deep Reinforcement Learning:
+* An Introduction to Deep Reinforcement Learning: https://arxiv.org/pdf/1811.12560.pdf
+* Playing Atari with Deep Reinforcement Learning: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+* Double DQN: https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847
+* Dueling Network Architectures: http://proceedings.mlr.press/v48/wangf16.pdf
+* Ditributional DQN:
+    * A Distributional Perspective on Reinforcement Learning: https://arxiv.org/abs/1707.06887
+    * Distributional Reinforcement Learning with Quantile Regression: https://arxiv.org/abs/1710.10044
+    * An Analysis of Categorical Distributional Reinforcement Learning: https://arxiv.org/abs/1802.08163
+ 
+

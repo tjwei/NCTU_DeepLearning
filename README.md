@@ -78,5 +78,6 @@ Coursework (use new E3 to submit your work)
     * A Distributional Perspective on Reinforcement Learning: https://arxiv.org/abs/1707.06887
     * Distributional Reinforcement Learning with Quantile Regression: https://arxiv.org/abs/1710.10044
     * An Analysis of Categorical Distributional Reinforcement Learning: https://arxiv.org/abs/1802.08163
- 
-
+ # Week14 Generative Adversarial Networks
+* https://github.com/tjwei/GAN_Tutorial
+* slides: https://drive.google.com/open?id=1---Gat7n_6s0_3m_mJnaJIdRgs7XCg0U

@@ -81,3 +81,14 @@ Coursework (use new E3 to submit your work)
  # Week14 Generative Adversarial Networks
 * https://github.com/tjwei/GAN_Tutorial
 * slides: https://drive.google.com/open?id=1---Gat7n_6s0_3m_mJnaJIdRgs7XCg0U
+# Week16
+* Pretraining and Transfer Learning
+* Neural style transfer
+    * Original Paper: https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html
+    * Perceptual loss: https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf
+    * https://arxiv.org/pdf/1705.08086.pdf
+    * Review: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732370
+* Variational Autoencoders
+    * Tutorial on Variational Autoencoders: https://arxiv.org/abs/1606.05908
+    * Vector Quantized Variational Autoencoders: https://arxiv.org/abs/1711.00937
+    * VQ-VAE-2: https://arxiv.org/abs/1906.00446

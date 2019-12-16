@@ -83,13 +83,15 @@ Coursework (use new E3 to submit your work)
 * slides: https://drive.google.com/open?id=1---Gat7n_6s0_3m_mJnaJIdRgs7XCg0U
 # Week16
 * Pretraining and Transfer Learning
+* Deep Dream: https://en.wikipedia.org/wiki/DeepDream
+* Adversarial Example: https://pytorch.org/tutorials/beginner/fgsm_tutorial.html
 * Neural style transfer
     * Original Paper: https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html
     * Perceptual loss: https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf
+    * Instance Normalizatoin: https://arxiv.org/abs/1607.08022
+    * Adaptive Instance Normalization: https://arxiv.org/abs/1703.06868
     * https://arxiv.org/pdf/1705.08086.pdf
     * Review: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732370
-* Deep Dream: https://en.wikipedia.org/wiki/DeepDream
-* Adversarial Example: https://pytorch.org/tutorials/beginner/fgsm_tutorial.html
 * Variational Autoencoders
     * Tutorial on Variational Autoencoders: https://arxiv.org/abs/1606.05908
     * Vector Quantized Variational Autoencoders: https://arxiv.org/abs/1711.00937

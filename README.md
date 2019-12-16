@@ -92,6 +92,7 @@ Coursework (use new E3 to submit your work)
     * Adaptive Instance Normalization: https://arxiv.org/abs/1703.06868
     * https://arxiv.org/pdf/1705.08086.pdf
     * Review: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732370
+# Week17
 * Variational Autoencoders
     * Tutorial on Variational Autoencoders: https://arxiv.org/abs/1606.05908
     * Vector Quantized Variational Autoencoders: https://arxiv.org/abs/1711.00937

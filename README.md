@@ -88,6 +88,8 @@ Coursework (use new E3 to submit your work)
     * Perceptual loss: https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf
     * https://arxiv.org/pdf/1705.08086.pdf
     * Review: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732370
+* Deep Dream: https://en.wikipedia.org/wiki/DeepDream
+* Adversarial Example: https://pytorch.org/tutorials/beginner/fgsm_tutorial.html
 * Variational Autoencoders
     * Tutorial on Variational Autoencoders: https://arxiv.org/abs/1606.05908
     * Vector Quantized Variational Autoencoders: https://arxiv.org/abs/1711.00937

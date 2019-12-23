@@ -97,4 +97,4 @@ Coursework (use new E3 to submit your work)
     * Tutorial on Variational Autoencoders: https://arxiv.org/abs/1606.05908
     * Vector Quantized Variational Autoencoders: https://arxiv.org/abs/1711.00937
     * VQ-VAE-2: https://arxiv.org/abs/1906.00446
-* CNN variations: https://github.com/tjwei/NCTU_DeepLearning/deeplearning-week17.pdf
+* CNN variations: [Deep Learning Week 09.pdf](deeplearning-week17.pdf)
